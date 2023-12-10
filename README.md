@@ -1,10 +1,6 @@
 # Challenge cocteles
 
-#### React
-#### Vite
-#### Styled Components
-#### Iconify
-#### Axios
+### React, Vite, Styled Components, Iconify, Axios
 
 Para ejecutar el proyecto localmente
 
